@@ -24,7 +24,7 @@ O projeto funciona da seguinte maneira:
 
 A escolha da quantidade e valor das palavras foi de uso pessoal, para implementar outros valores faça uso do código em main.py.
 
-3 - A chamada é uma CTA que pode ter sido escrita separada ou dentro do arquivo do texto, para identificar e contabilizar a CTA ela deve ter a tag `CHAMADA:` que incluida no texto apenas uma vez, não há tratamento para mais de uma CTA no mesmo arquivo.
+3 - A chamada é uma CTA que pode ter sido escrita separada ou dentro do arquivo do texto, para identificar e contabilizar a CTA ela deve ter a tag `CHAMADA:` que deve ser incluida no texto apenas uma vez, não há tratamento para mais de uma CTA no mesmo arquivo.
 
 4 - Seguem exemplos de arquivos de textos para teste, o título do arquivo deve se parecer como: 500W titulo do texto aqui ou 30W Outro título de texto, lembrando que a extensão .docx não precisa estar escrita no titulo do texto mas o arquivo precisa ser docx para ser lido, ou seja é recomendável que outros arquivos .docx e que não se deseja analisar não estejam no diretório.
 
